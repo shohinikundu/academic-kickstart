@@ -24,7 +24,7 @@ interests:
 - Financial Intermediation
 - Corporate Finance
 - Macroeconomics
-- Emerging Markets Finance and Development
+- Emerging Market Finance and Development
 
 education:
   courses:
